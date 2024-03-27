@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lsofficial6&label=Profile%20views&color=0e75b6&style=flat" alt="lsofficial6" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.ryzentech.ca](www.ryzentech.ca)
+- 👨‍💻 All of my projects are available at [www.ryzentech.ca](https://ryzentech.ca/)
 
 - 📫 How to reach me **primexx00@gmail.com**
 
-- 📄 Know about my experiences [resume.ryzentech.ca](resume.ryzentech.ca)
+- 📄 Know about my experiences [Portfolio](https://resume.ryzentech.ca/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
